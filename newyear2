@@ -1,0 +1,36 @@
+<html>
+   <title>Сайт про Новый год</title>
+    <body style="font-family:sans-serif">
+      <header>
+        <img src="https://w7.pngwing.com/pngs/493/911/png-transparent-new-year-happy-new-year-2017-white-holidays-text-thumbnail.png" width=250 height=200>
+        <a href="tradition">Как появился праздник Новый год</a>
+        <a href=""></a>
+      </header>
+      
+      <main>
+          <h1 style="text-align:center; color:#AFEEEE; font-size:50px">Новый год<img src="https://img.freepik.com/free-vector/happy-new-year-2024-holiday-vector-illustration-of-numbers-2024-gold-numbers-design-of-greeting-card_145391-1465.jpg?w=740&t=st=1702807153~exp=1702807753~hmac=47ab0e887abe5df920b36c03c4fb343faa1f2883fd6b11f4681b482d078d72fa" width=60 height=40></h1>
+          <h2 style="text-align:center; font-size:40px">Как появился праздник Новый год</h2>
+           <p style="font-size:20px">На Руси Новый год решили праздновать в 1700 году по указу Петра I, который ввел летоисчисление от Рождества Христова и повелел отмечать Новый год 1 января.</p>
+           <p style="font-size:20px">В Древнем Египте, например, в конце декабря отмечали праздник, посвященный возрождению бога Амона. В Древнем Риме в этот же период праздновали начало нового года. Также в Древнем Риме существовала традиция дарить подарки на Новый год.</p>
+          <h2 style="text-align:center; font-size:40px">Новый год в разных странах</h2>
+           <p style="font-size:20px">Новый год отмечается в разных странах по-разному. В некоторых странах, таких как Россия, Украина, Белоруссия, Казахстан, он отмечается 1 января, а в некоторых других странах, таких как Китай, Япония, Вьетнам, Корея, он отмечается в другое время года.</p>
+          <h2 style="text-align:center; font-size:40px" id="tradition">Традиции Нового года в России</h2>
+           <p style="font-size:20px">Одной из главных традиций является украшение елки. Елки украшают разноцветными игрушками, гирляндами и мишурой. Также на елку вешают фигурки Деда Мороза и Снегурочки.<img src="https://img.freepik.com/free-photo/man-in-santa-claus-costume-winking_329181-6661.jpg?w=996&t=st=1702808444~exp=1702809044~hmac=42f817a36341c3d7cfc74cfbe188c0dff41243edc897635bf70c4ee76505e893" width=40 height=30></p>
+           <p style="font-size:20px">Еще одной традицией является приготовление праздничного стола. На столе обязательно должны быть блюда из мяса, рыбы, овощей и фруктов. Также на столе присутствуют салаты, закуски, горячие блюда и десерты</p>
+      </main>
+
+      <footer style="background-color:blue">
+        <h3>Адрес</h3>
+        <p>Город Балалайка, улица Красноярская, дом 4832</p>
+        <h3>Телефон</h3>
+        <p>8838481848</p>
+
+      </footer>
+
+
+
+
+
+
+    </body>
+</html>
